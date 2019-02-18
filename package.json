@@ -25,5 +25,10 @@
     "react": "*",
     "react-native": "*",
     "react-navigation": "*"
+  },
+  "devDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-navigation": "*"
   }
 }
